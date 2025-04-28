@@ -2,3 +2,4 @@
 submission*.csv
 *.pkl
 model/
+datos
